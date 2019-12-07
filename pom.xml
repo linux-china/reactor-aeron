@@ -18,8 +18,8 @@
     </scm>
 
     <properties>
-        <aeron.version>1.23.0</aeron.version>
-        <reactor.version>Dysprosium-SR1</reactor.version>
+        <aeron.version>1.24.0</aeron.version>
+        <reactor.version>Dysprosium-SR2</reactor.version>
 
         <slf4j.version>1.7.7</slf4j.version>
         <log4j.version>2.12.1</log4j.version>
